@@ -1,1 +1,9 @@
-
+{
+    "name": "Home_Run_Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/c-noli/HomeRunMod",
+    "description": "A mod for goofy knockback cards",
+    "dependencies": [
+      
+    ]
+}
